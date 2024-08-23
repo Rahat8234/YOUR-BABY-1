@@ -2,7 +2,7 @@ module.exports.config = {
   name: "albam",
   version: "1.0.3",
   permssion: 0,
-  credits: "islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊 𝐁𝐎𝐓",
   prefix:true,
   description: "Random video",
   category: "short video",
@@ -40,7 +40,7 @@ module.exports.config = {
       responseType: "stream"
     })).data;
     return e.sendMessage({
-      body: "𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐈𝐍𝐆 𝐘𝐎𝐔 𝐕𝐈𝐃𝐄𝐎 \n𝐅𝐑𝐎𝐌\n\n｢𝐈𝐒𝐋𝐀𝐌𝐈𝐂𝐊 𝐂𝐇𝐀𝐓｣",
+      body: "𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐈𝐍𝐆 𝐘𝐎𝐔 𝐕𝐈𝐃𝐄𝐎 \n𝐅𝐑𝐎𝐌\n\n｢𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊 𝐁𝐎𝐓｣",
       attachment: t
     }, a.threadID, a.messageID)
   }
