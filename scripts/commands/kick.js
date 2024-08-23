@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0", 
   permssion: 2,
   prefix: true,
-  credits: "Mirai Team",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   description: "remove form the group user",
   category: "user", 
   usages: "[tag]", 
