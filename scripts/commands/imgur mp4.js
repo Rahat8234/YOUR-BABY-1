@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0", 
   permssion: 0,
   prefix: true,
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   description: "create your video link",
   category: "other", 
   usages: "[tag]", 
