@@ -6,7 +6,7 @@ module.exports.config = {
 
     permission: 0,
 
-    credits: "Nayan",
+    credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
 
     description: "Photo Convert HD",
 
