@@ -2,7 +2,7 @@ module.exports.config = {
   name: "flag",
   version: "1.0.0",
   permssion: 0,
-  credits: "Islamick Cyber Chat ",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
   description: "View flag img ",
   category: "flag",
