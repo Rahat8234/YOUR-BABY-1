@@ -1,9 +1,9 @@
-/** THIS FULL BOT COMMAND FILE AND ALL API CREATE BY ISLAMICK CYBET CHAT DONT CHINGE THE MY ANY CODE 🤙🖤📿  **/
+/** THIS FULL BOT COMMAND FILE AND ALL API CREATE BY 𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊 DONT CHINGE THE MY ANY CODE 🤙🖤📿  **/
 module.exports.config = {
   name: "islamick video",
   version: "1.0.0",
   permssion: 0,
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
   description: "islamick  VEDIO",
   category: "I C C",
