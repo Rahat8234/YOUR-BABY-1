@@ -2,7 +2,7 @@ module.exports.config = {
   name: "randommix",
   version: "11.9.7",
   permssion: 0,
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
   description: "random love story video",
   category: "video",
@@ -39,7 +39,7 @@ module.exports.run = async function({ api, event }) {
   let callback = function () {
           api.sendMessage({
             body: `𝐒𝐏𝐀𝐘𝐒𝐇𝐄𝐀𝐋 𝐑𝐀𝐍𝐃𝐎𝐌 𝐌𝐈𝐗 𝐕𝐈𝐃𝐄𝐎...🎬\n\n
-${shaon2} 𝚃𝙾𝚃𝙰𝙻 𝚅𝙸𝙳𝙴𝙾:${count}...🎬\n\n｢𝐈𝐒𝐋𝐀𝐌𝐈𝐂𝐊 𝐂𝐘𝐁𝐄𝐑 𝐂𝐇𝐀𝐓｣`,
+${shaon2} 𝚃𝙾𝚃𝙰𝙻 𝚅𝙸𝙳𝙴𝙾:${count}...🎬\n\n｢𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊｣`,
             attachment: fs.createReadStream(__dirname + `/cache/Shaoon.mp4`)
           }, event.threadID, () => fs.unlinkSync(__dirname + `/cache/Shaoon.mp4`), event.messageID);
         };
