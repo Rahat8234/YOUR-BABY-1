@@ -2,7 +2,7 @@ module.exports.config = {
   name: "dp",
   version: "2.6.0",
   Permssion: 0,
-  credits: "Islamick Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
   description: "",
   category: "Love",
