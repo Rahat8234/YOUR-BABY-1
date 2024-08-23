@@ -2,7 +2,7 @@
   name: "doya",
   version: "1.2.8",
   Permssion: 0,
-  credits: "Islamick Chat", 
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊", 
   prefix:true,
   description: "Short doya",
   category: "doya",
