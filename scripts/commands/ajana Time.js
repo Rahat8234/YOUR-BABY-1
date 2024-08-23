@@ -2,7 +2,7 @@ module.exports.config = {
   name: "ajan",
   version: "2.0",
   Permssion: 0,
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix : true,
   description: "সেট করা সময় অনুযায়ী স্বয়ংক্রিয়ভাবে বার্তাগুলি পাঠানো হবে!",
   category: "AutoTime",
