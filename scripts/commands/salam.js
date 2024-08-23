@@ -2,7 +2,7 @@ module.exports.config = {
   name: "salam",
   version: "1.0.0",
   permssion: 0,
-  credits: "EMon-BHai",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
   description: "auto reply to salam",
   category: "noprefix",
