@@ -2,7 +2,7 @@ module.exports.config = {
   name: "wp",
   version: "1.1.1",
   permssion: 0,
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
   description: "create wp link",
   category: "wo",
