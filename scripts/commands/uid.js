@@ -2,7 +2,7 @@ module.exports.config = {
   name: "uid",
   version: "1.0.0",
   permssion: 0,
-  credits: "Islamick Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
   description: "chak information for Facebook uid and massage link",
   category: " provide fb uid link",
