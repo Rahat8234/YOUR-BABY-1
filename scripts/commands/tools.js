@@ -2,7 +2,7 @@ module.exports.config = {
   name: "tools",
   version: "0.0.1",
   permssion: 0,
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix: true,
   description: "tools",
   category: "Admin-bot system",
