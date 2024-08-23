@@ -2,7 +2,7 @@ module.exports.config = {
   name: "ar",
   version: "1.0.1",
   permssion: 0,
-  credits: "Islamick Chat",
+  credits: "RAHAT",
   prefix: false,
   description: "Text translation",
   category: "media",
