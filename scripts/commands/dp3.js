@@ -2,7 +2,7 @@ module.exports.config = {
   name: "dp3",
   version: "7.3.1",
   Permssion: 0,
-  credits: "Islamick Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix :true,
   description: "Get Pair From Mention",
   category: "img",
