@@ -3,7 +3,7 @@ module.exports.config = {
   version: "0.0.2",
   permission: 0,
   prefix: true,
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   description: "prayer time",
   category: "time",
   usages: "",
