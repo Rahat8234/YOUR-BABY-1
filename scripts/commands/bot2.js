@@ -3,7 +3,7 @@ module.exports.config = {
         name: "autoreact",
   version: "1.0.0",
         permssion: 0,
-        credits: "Islamick Chat",
+        credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
         prefix:true,
         description: "non prefix reply",
         category: "no prefix",
@@ -25,10 +25,10 @@ haha.includes("❤️") || haha.includes("✨") || haha.includes("😎") || haha
     return api.setMessageReaction("🌸", event.messageID, (err) => {}, true)
   }
   if (haha.includes("bot i love you") || haha.includes("Bot love you")){
-    api.sendMessage("আমাকে নাহ আল্লাহ কে ভালোবাসা প্রয় ভাই ও বন 🌺✨", event.threadID, event.messageID)
+    api.sendMessage("আমাকে নাহ আল্লাহ কে ভালোবাসা প্রিয় ভাই ও বোন 🌺✨", event.threadID, event.messageID)
   }
   if (haha.includes("bot ummah") || haha.includes("bot kiss me ")){
-    api.sendMessage("আমি রোবোট আমার চুম্মা খেলে কি তুমার ফিলিংস আসবে আচ্ছা বাবা নাও খেয়ে দেখো মজা পাও কি নাহ\n\n\n 👉🤖👈\n\n ummmmah 💋💋🥰365 Day", event.threadID, event.messageID)
+    api.sendMessage("আমি রোবোট আমার চুম্মা খেলে কি তোমার ফিলিংস আসবে আচ্ছা বাবা নাও খেয়ে দেখো মজা পাও কি নাহ\n\n\n 👉🤖👈\n\n ummmmah 💋💋🥰365 Day", event.threadID, event.messageID)
   }
   if (haha.includes("bot love me") || haha.includes("Bot love me")){
     api.sendMessage("ok Baby love too❤️💋", event.threadID, event.messageID)
