@@ -2,7 +2,7 @@ module.exports.config = {
   name: "bn",
   version: "1.0.1",
   permssion: 0,
-  credits: "Islamick Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix: false,
   description: "Text translation",
   category: "media",
