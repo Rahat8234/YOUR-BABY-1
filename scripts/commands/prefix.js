@@ -10,7 +10,7 @@ module.exports.config = {
   name: "prefix",
   version: "1.0.0",
   permission: 2,
-  credits: "dipto",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
   description: "when send ,prefix then response",
   category: "bot prefix",
