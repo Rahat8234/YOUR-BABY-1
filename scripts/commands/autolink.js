@@ -1,10 +1,10 @@
 module.exports = {
   config:{
-    name: "auto",
+    name: "autolink",
     version: "0.0.2",
     permission: 0,
     prefix: 'awto',
-    credits: "Nayan",
+    credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
     description: "auto video download",
     category: "user",
     usages: "",
