@@ -4,7 +4,7 @@ const axios = require('axios');
 module.exports.config = {
   name: "sura",
   version: "1.6",
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
  Permssion:0,
   category: "sura",
