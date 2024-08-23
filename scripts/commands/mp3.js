@@ -2,9 +2,9 @@ module.exports.config = {
   name: "mp3",
   version: "1.0.0",
   permssion: 0,
-  credits: "Islamick Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
-  description: "M H BD",
+  description: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊 BD",
   category: "video Convert Audio",
   usages: "audio",
   cooldowns: 5
