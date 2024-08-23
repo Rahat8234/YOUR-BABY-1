@@ -6,7 +6,7 @@ module.exports.config = {
   name: "spamban",
   version: "1.1.0",
   Permssion: 0,
-  credits: "August Quinn",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix :true,
   description: "Automatically warns users when certain sensitive keywords are detected in the message.",
   category: "System",
