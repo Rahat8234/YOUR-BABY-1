@@ -2,7 +2,7 @@ module.exports.config = {
   name: "pad",
   version: "1.0.1",
   Permssion: 0,
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix :true,
   description: "Text Adding For pad",
   category: "general",
