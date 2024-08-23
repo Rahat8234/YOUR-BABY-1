@@ -2,10 +2,10 @@ module.exports.config = {
   name: "profile",
   version: "1.0.0",
   permssion: 0,
-  credits: "Islamick Cyber chat ",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix:true,
   description: "show any membar profile",
-  category: "M H BD",
+  category: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊 BD",
   usages: "user tage",
   cooldowns: 3,
   dependencies: {
