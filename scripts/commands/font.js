@@ -4,7 +4,7 @@ module.exports.config = {
   name: 'font',
   version: '1.1.0',
   permssion: 0,
-  credits: 'Islamick Cyber Chat',//**Don't change my stall code
+  credits: '𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊',//**Don't change my stall code
   prefix:true,
   description: 'Converts text into any Font',
   category: 'Tools',
@@ -159,7 +159,7 @@ module.exports.run = async ({ event, api, args }) => {
     .map(char => fontMap.map[char] || char)
     .join('');
 
-  const gifUrl = 'https://i.imgur.com/4mFdoDc.jpeg';
+  const gifUrl = '"https://i.imgur.com/6seVHDo.jpeg",';
   const gifData = await axios.get(gifUrl, { responseType: 'stream' });
 
   return api.sendMessage({
