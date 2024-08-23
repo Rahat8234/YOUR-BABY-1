@@ -7,7 +7,7 @@ module.exports.config = {
   name: "bot",
   version: "1.0.1",
   permission: 0,
-  credits: "Islamick Cyber Chat",
+  credits: "𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊",
   prefix: false,
   description: "goibot",
   category: "Noprefix",
