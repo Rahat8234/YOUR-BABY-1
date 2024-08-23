@@ -5,7 +5,7 @@ module.exports.config = {
   name: 'Convert',
   version: '1.0.0',
   permission: 0,
-  credits: 'Islamic Cyber chat',
+  credits: '𝐊𝐡𝐚𝐧 𝐑𝐚𝐡𝐮𝐥 𝐑𝐊 𝐁𝐎𝐓',
   prefix:true,
   description: 'Convert media from a link (supports jpeg, jpg, png, mp4, gif, wav)',
   category: 'Media',
