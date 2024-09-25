@@ -16,6 +16,6 @@ module.exports = function({ sequelize, Sequelize }) {
 			type: Sequelize.JSON
 		}
 	});
-
+ 
 	return Threads;
 }
