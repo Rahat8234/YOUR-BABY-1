@@ -1,4 +1,4 @@
-"use strict";
+"use strict";n
 
 var utils = require("../utils");
 var log = require("npmlog");
