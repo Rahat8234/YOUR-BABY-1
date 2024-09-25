@@ -1,4 +1,4 @@
-console.clear(v);
+console.clear();
 const { spawn } = require("child_process");
 const express = require("express");
 const app = express();
